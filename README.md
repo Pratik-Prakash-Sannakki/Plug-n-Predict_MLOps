@@ -80,7 +80,7 @@ gunicorn {flask file name}:app
 <br>
 
 
-## Step to Build the Application 
+## Steps to Build the Application 
 
 #### 1)  Notebook
 
