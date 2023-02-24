@@ -16,7 +16,7 @@ The Dataset used is the Housing dataset which contains information about differe
 
 Demo - https://lr-houseprice.onrender.com
 
-Note- If the link doesn't give a quick response on click, copy and past it in a new tab and wait. It's a bit laggy on intially call but will work fine once the page loads up once. 
+*Note* - If the link doesn't give a quick response on click, copy and past it in a new tab and wait. It's a bit laggy on intially call but will work fine once the page loads up once. 
 
 <br>
 
@@ -113,9 +113,9 @@ gunicorn {flask file name}:app
 3)  Train and Testing the model
 4)  Saving the model
 
-**Colab link to run the notebook on its own** - https://colab.research.google.com/drive/1hzrcfCEe3q7H8VywgXoOKg91e1_-QBNj?usp=sharing
+*Colab link to run the notebook on its own* - https://colab.research.google.com/drive/1hzrcfCEe3q7H8VywgXoOKg91e1_-QBNj?usp=sharing
 
-**Note** - More elaborate cell by cell explaining given in the notebook
+*Note* - More elaborate cell by cell explaining given in the notebook
 
 #### 2) Flask Web Application
 
