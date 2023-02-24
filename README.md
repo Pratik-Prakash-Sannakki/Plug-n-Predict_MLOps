@@ -1,11 +1,11 @@
 # MLOps E2E Workflow -- Boston House Price Prediction Using Linear Regression 
 
 ## Problem Statement 
----
+
 To predict the price of the houses Price based on other features like Number of rooms, Age of the property etc.
 
 ## Dataset
----
+
 The Dataset used is the Housing dataset which contains information about different houses in Boston. This data was originally a part of UCI Machine Learning Repository and has been removed now. We can also access this data from the scikit-learn library and kaggle. There are 506 samples and 13 feature variables in this dataset. The objective is to predict the value of prices of the house using the given features.
 
 ##  Steps to Deploy the Application
@@ -76,11 +76,13 @@ gunicorn {flask file name}:app
 #### 8) Go to the URL provided on deployment 
 
 #### 9) Now you can access the application remotely
+<br>
+<br>
 
 
 ## Step to Build the Application 
 
-### 1)  Creation of a notebook for prediction 
+### 1)  Notebook
 
 #### Highlights of the notebook 
 
@@ -93,16 +95,15 @@ gunicorn {flask file name}:app
 
 **Note** - More elaborate cell by cell explaining given in the notebook
 
-### 2) Create a Flask application
+### 2) Flask Web Application
 
 An app.py file is created to define endpoints which intern triggers the Predictor function. The Predictor function containing the imported model and predicts the House price based on data input provided by the user from the Web interface. 
 
-### 3)  Create a Home HTML file for the Web Interface  
+### 3)  Application Front End  
 
-An predict.html file which contains a form for user to enter data.
+An predict.html file which contains code for a form for the user to enter data.
 
-### 4)  Create a Requirements File
+### 4)  Requirements File
 
 A requirements.txt which contains all the library reuired for the application to predict.
 
-### 5)  
