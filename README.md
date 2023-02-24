@@ -82,9 +82,9 @@ gunicorn {flask file name}:app
 
 ## Step to Build the Application 
 
-### 1)  Notebook
+#### 1)  Notebook
 
-#### Highlights of the notebook 
+##### Highlights of the notebook 
 
 1)  Library and Dataset Imports 
 2)  Exploratory Data Analysis
@@ -95,15 +95,15 @@ gunicorn {flask file name}:app
 
 **Note** - More elaborate cell by cell explaining given in the notebook
 
-### 2) Flask Web Application
+#### 2) Flask Web Application
 
 An app.py file is created to define endpoints which intern triggers the Predictor function. The Predictor function containing the imported model and predicts the House price based on data input provided by the user from the Web interface. 
 
-### 3)  Application Front End  
+#### 3)  Application Front End  
 
 An predict.html file which contains code for a form for the user to enter data.
 
-### 4)  Requirements File
+#### 4)  Requirements File
 
 A requirements.txt which contains all the library reuired for the application to predict.
 
