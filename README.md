@@ -11,6 +11,11 @@ The Dataset used is the Housing dataset which contains information about differe
 
 Demo - https://lr-houseprice.onrender.com
 
+## UI
+
+<img width="1440" alt="Screenshot 2023-02-24 at 3 37 13 PM" src="https://user-images.githubusercontent.com/114252357/221287634-c591e1b1-6c18-4bea-98c0-f945e2b6e0ee.png">
+
+
 
 ##  Steps to Deploy the Application
 
