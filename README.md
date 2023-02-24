@@ -51,6 +51,8 @@ copy the url eg. 127.0.0.1/5000 from the out put and paste the URL in your brows
 
 
 ### 1)  Cloud Deployment
+---
+
 #### 1) Clone the repostory 
 
 ```
