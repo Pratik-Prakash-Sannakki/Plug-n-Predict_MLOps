@@ -16,6 +16,8 @@ The Dataset used is the Housing dataset which contains information about differe
 
 Demo - https://lr-houseprice.onrender.com
 
+Note- If the link doesn't give a quick response on click, copy and past it in a new tab and wait. It's a bit laggy on intially call but will work fine once the page loads up once. 
+
 <br>
 
 
