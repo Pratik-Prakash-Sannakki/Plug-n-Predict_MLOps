@@ -10,7 +10,7 @@ The Dataset used is the Housing dataset which contains information about differe
 
 ##  Steps to Deploy the Application
 ---
-### 1)  Local Deployment
+## 1)  Local Deployment
 ---
 #### 1) Clone the repostory 
 
@@ -25,7 +25,7 @@ conda create -n {Environment name} python==3.7
 
 ```
 
-### 3) Start the Environment 
+#### 3) Start the Environment 
 
 ```
 conda activate {Environment name} 
@@ -52,7 +52,7 @@ python app.py
 <br>
 
 
-### 1)  Cloud Deployment
+## 1)  Cloud Deployment
 ---
 
 #### 1) Clone the repostory 
