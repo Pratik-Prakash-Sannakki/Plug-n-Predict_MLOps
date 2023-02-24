@@ -7,7 +7,9 @@ To predict the price of the houses Price based on other features like Number of 
 ## Dataset
 
 The Dataset used is the Housing dataset which contains information about different houses in Boston. This data was originally a part of UCI Machine Learning Repository and has been removed now. We can also access this data from the scikit-learn library and kaggle. There are 506 samples and 13 feature variables in this dataset. The objective is to predict the value of prices of the house using the given features.
+
 ##  Steps to Deploy the Application
+
 ### 1)  Local Deployment
 
 #### 1) Clone the repostory 
@@ -43,10 +45,33 @@ python app.py
 
 ```
 
-#### 6) Predict House Price 
+#### 6)  Access the local Web Application  
 
 copy the url eg. 127.0.0.1/5000 from the out put and paste the URL in your browser 
 
+
+### 1)  Cloud Deployment
+#### 1) Clone the repostory 
+
+```
+git clone https://github.com/Pratik-Prakash-Sannakki/MLOps_E2E_Workflow_LinearRegression.git
+
+```
+#### 2) Create a git repository with all the cloned file  
+#### 3) Create a Render Account 
+  link - https://render.com/
+#### 4) link you github account and create a new Web service
+#### 5) connect your git Repository 
+#### 6) Change name of API to your desired name and change start command to
+```
+gunicorn {flask file name}:app
+
+```
+#### 7) Deploy the application 
+
+#### 8) Go to the URL provided on deployment 
+
+#### 9) Now you can access the application remotely
 
 
 ## Step to Build the Application 
