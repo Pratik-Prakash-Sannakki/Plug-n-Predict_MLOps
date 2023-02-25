@@ -127,5 +127,5 @@ An predict.html file which contains code for a form for the user to enter data.
 
 #### 4)  Requirements File
 
-A requirements.txt which contains all the library reuired for the application to predict.
+A requirements.txt which contains all the library required for the application to predict.
 
