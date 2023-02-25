@@ -37,7 +37,7 @@ Demo - https://lr-houseprice.onrender.com
 #### 1) Clone the repostory 
 
 ```
-git clone https://github.com/Pratik-Prakash-Sannakki/MLOps_E2E_Workflow_LinearRegression.git
+git clone https://github.com/Pratik-Prakash-Sannakki/Plug-n-Predict_MLOps.git
 
 ```
 #### 2) Create a conda Environment 
