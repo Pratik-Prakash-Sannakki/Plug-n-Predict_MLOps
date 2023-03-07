@@ -2,7 +2,7 @@
 
 ## Problem Statement 
 
-To predict the price of the houses Price based on other features like Number of rooms, Age of the property etc.
+To predict the house prices based on other features like Number of rooms, Age of the property etc.
 
 <br>
 
